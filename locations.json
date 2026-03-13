@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Apple Park",
+    "address": "10600 N Tantau Ave, Cupertino, CA 95014, USA",
+    "coordinates": {"lat": 37.3349, "lng": -122.0090},
+    "place_id": "PLACE_ID_APPLE",
+    "phone": "(408) 996-1010",
+    "rating": 4.6
+  },
+  {
+    "name": "Googleplex",
+    "address": "1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA",
+    "coordinates": {"lat": 37.4220, "lng": -122.0841},
+    "place_id": "PLACE_ID_GOOGLE",
+    "phone": "(650) 253-0000",
+    "rating": 4.5
+  },
+  {
+    "name": "Meta Headquarters",
+    "address": "1 Hacker Way, Menlo Park, CA 94025, USA",
+    "coordinates": {"lat": 37.4848, "lng": -122.1484},
+    "place_id": "PLACE_ID_META",
+    "phone": "(650) 543-4800",
+    "rating": 4.3
+  }
+]
